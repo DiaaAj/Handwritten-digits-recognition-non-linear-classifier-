@@ -1,4 +1,4 @@
-#Handwritten digits recognition with a non-linear classifire (PCA + quadratic classifier).
+# Handwritten digits recognition with a non-linear classifire (PCA + quadratic classifier).
 
 I used 40 Principal components (optimal number of principle components) with my algorithm then I mapped my features into a quadratic function.
 The same principal components of the training set were applied on both the cross validation set and test set.  
