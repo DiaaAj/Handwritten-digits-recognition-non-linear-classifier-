@@ -11,4 +11,5 @@ I have other different linear classifier model with error rate of 8.4 (91.6% acc
 refrences:-
 
 Dataset http://yann.lecun.com/exdb/mnist/
+
 linear classifier model https://github.com/DiaaAj/Handwritten-digit-recognition-linear-classifier-
